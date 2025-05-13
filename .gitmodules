@@ -1,3 +1,6 @@
 [submodule "RISC-V-Summit-Europe-ORConf-2024"]
 	path = 2024/2024-06 RISC-V Summit Europe and ORConf
 	url = ../RISC-V-Summit-Europe-ORConf-2024.git
+[submodule "RISC-V-Summit-Europe-2025"]
+	path = 2025/2025-05 RISC-V Summit Europe
+	url = ../RISC-V-Summit-Europe-2025.git
